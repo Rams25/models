@@ -2,8 +2,9 @@
   "fichiers": [
     {
       "id": 0,
-      "nom": "test.txd",
-      "dossier": null
+      "nom": "custom.img",
+      "dossier": null,
+      "version": 0.0.1
     }
   ]
 }
