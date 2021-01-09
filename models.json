@@ -5,6 +5,12 @@
       "nom": "custom.img",
       "dossier": null,
       "version": 0.7
+    },
+    {
+      "id": 1,
+      "nom": "custom.ide",
+      "dossier": null,
+      "version": 0.1
     }
   ]
 }
