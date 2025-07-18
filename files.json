@@ -1,6 +1,6 @@
 {
   "files": {
-    "gta_sa.exe": "942379b10e73129f9df40ffe3859d13e",
+    "gta_sa.exe": ["942379b10e73129f9df40ffe3859d13e", "170b3a9108687b26da2d8901c6948a18"],
     "samp.dll": "449e4f985215ffb5bffadf23551c0d50"
   },
   "allowed": {
