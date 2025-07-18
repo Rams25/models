@@ -9,6 +9,8 @@
     "cleo.asi": "05f8b2dbf55a80b2d4e6b51db3b3bbee",
     "crashinfo.sa.asi":"76d6bae83c0f5b3c0c16ffa00dfe9188",
     "sampfuncs.asi":"f86b3b8c3b1328fe9155b80cbea3750a",
-    "_nodep.asi":"9ecd4f280066f0148e55add186996a8a"
+    "_nodep.asi":"9ecd4f280066f0148e55add186996a8a",
+    "sa_widescreenfix_lite.asi":"e22d585ea68b78effa2a56bf4a89fd37",
+    "SilentPatchSA.asi":"daf3f8ead32000199c8dcb2bc1c0c174"
   }
 }
