@@ -6,10 +6,9 @@
   "allowed": {
     "moonloader.asi": "90f5fad196f55f134f882d4c7df848c2",
     "modloader.asi": "7bca6c02c326ad80b51c8ba4a3ab7081",
-    "CLEO.asi": "05f8b2dbf55a80b2d4e6b51db3b3bbee",
     "cleo.asi": "05f8b2dbf55a80b2d4e6b51db3b3bbee",
-    "CrashInfo.SA.asi":"76d6bae83c0f5b3c0c16ffa00dfe9188",
+    "crashinfo.sq.asi":"76d6bae83c0f5b3c0c16ffa00dfe9188",
     "sampfuncs.asi":"f86b3b8c3b1328fe9155b80cbea3750a",
-    "_noDEP.asi":"9ecd4f280066f0148e55add186996a8a"
+    "_nodep.asi":"9ecd4f280066f0148e55add186996a8a"
   }
 }
